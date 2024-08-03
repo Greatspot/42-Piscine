@@ -9,35 +9,35 @@
   
 This repository contains my projects completed during my training at 42, including solutions to exercises and evaluations received.
 
-## Projetos e Exercícios
+## Projects and exercises
 
-| Projeto  | Descrição dos Exercícios | Solução Completada |
-|----------|--------------------------|--------------------|
-| Shell00  | 10 exercícios            | 10 exercícios      |
-| Shell01  | 9 exercícios             | 9 exercícios       |
-| C00      | 9 exercícios             | 9 exercícios       |
-| C01      | 9 exercícios             | 9 exercícios       |
-| C02      | 13 exercícios            | 12 exercícios      |
-| C03      | 6 exercícios             | 6 exercícios       |
-| C04      | 6 exercícios             | 5 exercícios       |
-| C05      | 9 exercícios             | 8 exercícios       |
-| C06      | 4 exercícios             | 4 exercícios       |
-| C07      | 6 exercícios             | 6 exercícios       |
-| C08      | 6 exercícios             | 6 exercícios       |
-| C09      | 3 exercícios             | 3 exercícios       |
-| C10      | 4 exercícios             | 0 exercícios       |
-| C11      | 8 exercícios             | 0 exercícios       |
-| C12      | 18 exercícios            | 0 exercícios       |
-| C13      | 8 exercícios             | 0 exercícios       |
-| Rush 00  | Print rectangles         | Not done           |
-| Rush 01  | Idk                      | Not done           |
-| Rush 02  | Number Dict              | Error              |
-| BSQ      | Big Square               | Not done           |
+| Projects | Exercise Description     | Completed Solution | Results    |
+|----------|--------------------------|--------------------|----------- |
+| Shell00  | 10 exercises             | 10 exercises      | 100/100 ✅ |
+| Shell01  | 9 exercises              | 9 exercises       | 100/100 ✅ |
+| C00      | 9 exercises              | 9 exercises       | 100/100 ✅ |
+| C01      | 9 exercises              | 9 exercises       | 100/100 ✅ |
+| C02      | 13 exercises             | 12 exercises      | 85/100 ✅  |
+| C03      | 6 exercises              | 6 exercises       | 75/100 ✅  |
+| C04      | 6 exercises              | 5 exercises       | 85/100 ✅  |
+| C05      | 9 exercises              | 8 exercises       | 80/100 ✅  |
+| C06      | 4 exercises              | 4 exercises       | 100/100 ✅ |
+| C07      | 6 exercises              | 6 exercises       | 70/100 ✅  |
+| C08      | 6 exercises              | 6 exercises       | 100/100 ✅ |
+| C09      | 3 exercises              | 3 exercises       | 100/100 ✅ |
+| C10      | 4 exercises              | 0 exercises       |     -      |
+| C11      | 8 exercises              | 0 exercises       |     -      |
+| C12      | 18 exercises             | 0 exercises       |     -      |
+| C13      | 8 exercises              | 0 exercises       |     -      |
+| Rush 00  | Print rectangles         | Not done          |     -      |
+| Rush 01  | Idk                      | Not done          |     -      |
+| Rush 02  | Number Dict              | Error             | 0/100 ❌  |
+| BSQ      | Big Square               | Not done          |     -      |
 
 
 ## Evaluations Moulinette
 
-Shell00  
+### Shell00  
 You have been graded 100 on C Piscine Shell 00:   
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK`  
 
@@ -46,8 +46,8 @@ You have been graded 100 on C Piscine Shell 01:
 `ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK`  
 
 ### C00  
-You have been graded 85 on C Piscine C 00:  
-`ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: KO`  
+You have been graded 100 on C Piscine C 00:  
+`ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK`  
 
 ### C01  
 You have been graded 100 on C Piscine C 01:  
@@ -74,7 +74,7 @@ You have been graded 100 on C Piscine C 06:
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK`  
 
 ### C07  
-You have been graded 60 on C Piscine C 07:  
+You have been graded 70 on C Piscine C 07:  
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Norme error | ex05: OK`  
 
 ### C08  
@@ -126,33 +126,33 @@ Este repositório contém os meus projetos realizados durante a minha formação
 
 ## Projetos e Exercícios
 
-| Projeto  | Descrição dos Exercícios | Solução Completada |
-|----------|--------------------------|--------------------|
-| Shell00  | 10 exercícios            | 10 exercícios      |
-| Shell01  | 9 exercícios             | 9 exercícios       |
-| C00      | 9 exercícios             | 9 exercícios       |
-| C01      | 9 exercícios             | 9 exercícios       |
-| C02      | 13 exercícios            | 12 exercícios      |
-| C03      | 6 exercícios             | 6 exercícios       |
-| C04      | 6 exercícios             | 5 exercícios       |
-| C05      | 9 exercícios             | 8 exercícios       |
-| C06      | 4 exercícios             | 4 exercícios       |
-| C07      | 6 exercícios             | 6 exercícios       |
-| C08      | 6 exercícios             | 6 exercícios       |
-| C09      | 3 exercícios             | 3 exercícios       |
-| C10      | 4 exercícios             | 0 exercícios       |
-| C11      | 8 exercícios             | 0 exercícios       |
-| C12      | 18 exercícios            | 0 exercícios       |
-| C13      | 8 exercícios             | 0 exercícios       |
-| Rush 00  | Print rectangles         | Not done           |
-| Rush 01  | Idk                      | Not done           |
-| Rush 02  | Number Dict              | Error              |
-| BSQ      | Big Square               | Not done           |
+| Projeto  | Descrição dos Exercícios | Solução Completada | Resultados |
+|----------|--------------------------|--------------------|----------- |
+| Shell00  | 10 exercícios            | 10 exercícios      | 100/100 ✅ |
+| Shell01  | 9 exercícios             | 9 exercícios       | 100/100 ✅ |
+| C00      | 9 exercícios             | 9 exercícios       | 100/100 ✅ |
+| C01      | 9 exercícios             | 9 exercícios       | 100/100 ✅ |
+| C02      | 13 exercícios            | 12 exercícios      | 85/100 ✅  |
+| C03      | 6 exercícios             | 6 exercícios       | 75/100 ✅  |
+| C04      | 6 exercícios             | 5 exercícios       | 85/100 ✅  |
+| C05      | 9 exercícios             | 8 exercícios       | 80/100 ✅  |
+| C06      | 4 exercícios             | 4 exercícios       | 100/100 ✅ |
+| C07      | 6 exercícios             | 6 exercícios       | 70/100 ✅  |
+| C08      | 6 exercícios             | 6 exercícios       | 100/100 ✅ |
+| C09      | 3 exercícios             | 3 exercícios       | 100/100 ✅ |
+| C10      | 4 exercícios             | 0 exercícios       |     -      |
+| C11      | 8 exercícios             | 0 exercícios       |     -      |
+| C12      | 18 exercícios            | 0 exercícios       |     -      |
+| C13      | 8 exercícios             | 0 exercícios       |     -      |
+| Rush 00  | Print rectangles         | Não fiz            |     -      |
+| Rush 01  | Idk                      | Não fiz            |     -      |
+| Rush 02  | Number Dict              | Error              | 0/100 ❌  |
+| BSQ      | Big Square               | Não fiz            |     -      |
 
 
-## Evaluations Moulinette
+## Avaliações Moulinette
 
-Shell00  
+### Shell00  
 You have been graded 100 on C Piscine Shell 00:   
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK`  
 
@@ -161,8 +161,8 @@ You have been graded 100 on C Piscine Shell 01:
 `ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK`  
 
 ### C00  
-You have been graded 85 on C Piscine C 00:  
-`ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: KO`  
+You have been graded 100 on C Piscine C 00:  
+`ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK`  
 
 ### C01  
 You have been graded 100 on C Piscine C 01:  
@@ -189,7 +189,7 @@ You have been graded 100 on C Piscine C 06:
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK`  
 
 ### C07  
-You have been graded 60 on C Piscine C 07:  
+You have been graded 70 on C Piscine C 07:  
 `ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Norme error | ex05: OK`  
 
 ### C08  
@@ -201,16 +201,16 @@ You have been graded 100 on C Piscine C 09:
 `ex00: OK | ex01: OK | ex02: OK`  
 
 ### C10  
-`I didn't send`  
+`Não enviei`  
 
 ### C11  
-`I didn't send`  
+`Não enviei`  
 
 ### C12  
-`I didn't send`  
+`Não enviei`  
 
 ### C13  
-`I didn't send`  
+`Não enviei`  
 
 ## FAQ
 
