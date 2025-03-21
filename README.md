@@ -1,5 +1,5 @@
 ## 🖥️ SCHOOL 42 LUXEMBOURG
-![School 42 Banner](https://github.com/Greatspot/banners/blob/main/ecole42Luxembourg.jpg)
+![School 42 Banner](https://github.com/Greatspot/Greatspot/blob/main/42/banners/piscine_and_common_core/ecole42Luxembourg.jpg)
 🌟Before fork it, give me a star 🌟
 
 <details>
